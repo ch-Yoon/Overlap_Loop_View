@@ -1,6 +1,5 @@
-# OverlapLoopView    
+# Hello, welcome to OverlapLoopView    
 
-## What is overlapLoopView?
 If you drag the view in the direction you want, you can go to the next page. You can show the full picture on the screen and give it the effect of crossing the page as if you were passing the paper. The logic for calculating the area, drag speed, and drag direction was applied. So, even if you do not drag a long, you can go to the next page.
 
 ## Demo
